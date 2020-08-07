@@ -6,3 +6,5 @@ Libraries/AceAddon-3.0/AceAddon-3.0.xml
 Libraries/AceConfig-3.0/AceConfig-3.0.xml
 
 SimpleUI.lua
+Modules/BlizzardArt.lua
+Modules/ActionBars.lua
